@@ -20,3 +20,11 @@ public class Kata {
 //     return str.endsWith(ending);
 //   }
 // }
+
+//Exercise 2
+//Make a simple function called greet that returns the most-famous "hello world!".
+//Style Points
+//Sure, this is about as easy as it gets. But how clever can you be to create the most creative "hello world" you can think of?
+public class HelloWorld {
+  // Write a public static function `greet` that returns "hello world!"
+}
